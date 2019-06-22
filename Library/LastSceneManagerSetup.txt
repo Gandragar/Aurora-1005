@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/Scenes/07Intera\xE7\xE3o Asteroide e Lua.unity"
+- path: "Assets/Scenes/02Anima\xE7\xE3o01.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
