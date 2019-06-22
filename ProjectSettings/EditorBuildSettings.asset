@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/01Menu.unity
+    guid: 17d4fe7fa82e9dd4aa95d0e1535d6d56
+  - enabled: 1
+    path: "Assets/Scenes/02Anima\xE7\xE3o01.unity"
+    guid: c5c24f7c14ecc2f4ab7b675c9811973e
+  - enabled: 0
+    path: "Assets/Scenes/07Intera\xE7\xE3o Asteroide e Lua.unity"
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
